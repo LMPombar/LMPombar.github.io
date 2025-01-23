@@ -1,2 +1,2 @@
-# LMPombar.github.io
+# lmpombar.github.io
 My portfolio repository
